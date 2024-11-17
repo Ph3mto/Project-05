@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu'.unity
+    guid: 995ed942ece55bc4e80965bf723aa01d
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 1e861d2293f5e1240a918da5eac21f18
+  - enabled: 1
+    path: Assets/Scenes/Maze 1.unity
+    guid: c40d2156204ca6a4d9a681977b739dff
+  - enabled: 1
+    path: Assets/Scenes/Maze 2.unity
+    guid: 9f2166c690bbd85418b3d19e1801a0d2
+  - enabled: 1
+    path: Assets/Scenes/Maze 3.unity
+    guid: ea6bd11d944e40b4d96006b705ae0e1d
+  - enabled: 1
+    path: Assets/Scenes/EndMenu.unity
+    guid: d2a696435a5967c4caeda78cbf83e011
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: e095603b3acba1344bcb847f6de8d9a8
   m_configObjects: {}
